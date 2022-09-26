@@ -1,0 +1,7 @@
+CREATE:
+http://localhost:3000/exercise?name=Jadon&reps=5&weight=100&unit=kgs&date=04-04-00
+
+http://localhost:3000/exercise?name=Eve&reps=5&weight=100&unit=kgs&date=04-04-00
+
+UPDATE:
+http://localhost:3000/exercise?name=Eve&reps=10&weight=100&unit=kgs&date=04-04-00
